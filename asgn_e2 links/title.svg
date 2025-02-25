@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 144 108">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: BodoniSvtyTwoITCTT-Book, 'Bodoni 72';
+      }
+
+      .st0, .st1 {
+        font-size: 33.6px;
+      }
+
+      .st0, .st1, .st2 {
+        fill: #1d2653;
+      }
+
+      .st1, .st2 {
+        font-family: BodoniSvtyTwoITCTT-BookIta, 'Bodoni 72';
+        font-style: italic;
+      }
+
+      .st3 {
+        fill: none;
+        stroke: #1d2653;
+        stroke-miterlimit: 10;
+        stroke-width: .6px;
+      }
+
+      .st2 {
+        font-size: 39.6px;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <text class="st2" transform="translate(26.5 60.2)"><tspan x="0" y="0">J</tspan></text>
+      <text class="st2" transform="translate(8.8 51.4)"><tspan x="0" y="0">C</tspan></text>
+    </g>
+    <circle class="st3" cx="29.8" cy="41.7" r="25.5"/>
+  </g>
+  <text class="st1" transform="translate(53.2 63)"><tspan x="0" y="0">Design</tspan></text>
+  <text class="st0" transform="translate(8.4 91)"><tspan x="0" y="0">Portfolio</tspan></text>
+</svg>
